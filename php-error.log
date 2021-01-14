@@ -504,3 +504,803 @@
 [14-Jan-2021 02:39:25 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
 [14-Jan-2021 02:39:25 Europe/Berlin] EXPENSES::construct -> inicio de login
 [14-Jan-2021 02:39:25 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:54:55 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:54:56 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:54:58 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:54:58 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:54:59 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:54:59 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:54:59 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:54:59 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:00 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:01 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:02 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:02 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:02 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:02 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:02 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:02 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:03 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:03 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:03 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:03 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:03 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:04 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:04 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:04 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:05 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:05 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:05 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:06 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:06 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:06 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:06 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:07 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:07 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:08 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:08 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:08 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:08 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:08 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:09 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:09 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:09 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:09 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:09 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:09 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:10 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:10 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:10 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:10 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:10 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:10 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:11 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:12 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:12 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:13 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:14 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:14 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:14 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:15 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:15 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:15 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:15 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:15 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:15 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:15 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:16 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:16 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:16 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:17 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:17 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:17 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:17 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:17 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:18 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:18 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:18 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:19 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:19 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:19 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:19 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:19 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:19 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:20 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:21 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:21 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:22 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:22 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:22 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:23 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:23 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:23 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:24 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:24 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:24 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:24 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:25 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:25 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:26 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:26 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:26 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:26 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:26 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:28 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:28 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:28 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:28 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:29 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:29 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:29 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:29 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:30 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:30 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:30 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:30 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:30 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:30 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:31 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:31 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:31 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:31 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:32 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:32 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:32 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:32 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:32 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:32 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:32 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:33 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:33 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:33 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:33 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:34 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:34 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:34 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:34 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:35 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:35 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:35 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:39 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:39 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:39 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:39 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:39 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:39 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:39 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:39 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:40 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:40 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:40 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:40 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:41 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:41 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:41 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:41 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:41 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:41 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:41 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:41 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:41 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:42 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:42 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:42 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:42 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:42 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:42 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:43 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:43 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:43 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:43 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:43 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:43 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:43 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:43 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:44 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:44 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:44 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:44 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:44 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:44 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:44 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:44 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:45 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:45 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:45 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:45 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:45 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:46 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:46 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:46 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:46 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:46 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:46 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:46 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:46 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:46 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:46 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:46 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:46 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:47 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:47 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:47 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:47 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:47 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:47 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:47 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:47 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:48 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:48 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:48 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:48 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:48 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:48 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:48 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:48 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:49 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:49 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:49 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:49 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:49 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:49 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:49 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:50 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:50 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:50 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:50 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:50 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:55:56 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:55:56 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:55:57 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:55:57 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:58 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:55:58 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:55:59 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:55:59 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:00 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:01 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:01 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:02 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:02 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:02 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:02 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:03 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:03 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:04 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:04 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:05 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:05 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:05 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:06 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:06 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:07 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:07 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:07 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:07 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:07 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:07 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:07 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:07 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:08 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:08 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:08 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:08 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:08 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:08 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:09 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:09 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:11 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:12 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:12 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:12 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:13 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:13 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:13 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:13 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:14 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:15 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:15 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:15 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:15 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:15 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:15 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:15 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:16 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:16 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:16 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:16 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:16 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:17 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:17 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:17 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:17 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:18 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:18 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:18 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:18 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:18 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:18 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:18 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:19 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:20 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:20 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:20 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:21 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:22 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:22 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:22 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:22 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:23 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:24 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:24 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:24 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:24 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:24 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:26 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:27 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:28 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:28 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:28 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:29 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:30 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:32 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:32 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:33 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:33 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:33 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:34 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:35 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:35 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:35 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:35 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:35 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:36 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:36 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:36 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:37 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:38 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:38 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:38 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:38 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:39 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:39 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:39 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:39 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:40 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:40 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:40 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:41 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:42 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:42 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:43 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:44 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:44 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:45 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:46 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:46 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:47 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:56:47 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:56:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:56:48 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:56:48 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:56:49 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:56:49 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:56:49 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:20 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:20 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:20 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:20 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:21 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:21 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:21 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:21 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:21 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:21 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:22 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:22 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:22 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:22 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:22 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:22 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:22 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:22 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:22 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:23 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:23 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:23 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:23 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:23 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:24 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:24 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:24 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:24 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:24 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:24 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:24 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:24 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:24 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:25 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:25 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:25 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:25 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:25 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:26 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:26 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:26 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:26 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:26 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:26 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:27 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:27 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:27 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:27 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:27 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:27 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:27 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:28 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:28 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:28 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:28 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:28 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:28 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:29 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:29 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:29 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:29 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:29 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:29 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:29 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:30 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:30 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:30 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:30 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:30 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:30 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:30 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:31 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:31 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:31 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:31 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:31 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:32 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:32 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:32 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:32 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:32 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:32 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:32 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:32 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:32 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:32 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:32 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:33 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:33 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:33 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:33 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:33 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:33 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:33 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:33 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:33 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:34 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:34 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:34 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:34 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:34 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:35 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:35 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:35 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:35 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:36 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:36 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:36 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:37 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:38 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:38 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:38 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:38 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:39 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:39 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:39 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:39 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:40 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:40 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:40 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:40 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:40 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:40 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:42 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:42 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:42 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:43 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:43 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:57:43 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:57:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:57:44 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:57:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:44 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:57:44 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:57:44 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:57:44 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:45 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:45 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:46 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:46 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:46 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:47 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:47 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:48 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:49 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:49 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:49 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:49 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:49 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:49 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:50 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:50 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:50 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:50 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:50 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:50 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:50 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:50 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:51 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:51 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:51 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:52 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:52 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:52 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:52 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:52 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:52 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:53 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:53 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:53 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:53 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:53 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:53 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:54 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:55 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:55 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:55 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:55 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:55 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:55 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:55 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:55 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:56 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:56 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:56 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:56 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:56 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:56 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:56 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:56 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:57 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:57 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:57 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:57 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:57 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:58 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:58 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:58:58 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:58:58 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:58:58 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:58:59 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:58:59 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:59 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:58:59 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:58:59 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:00 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:01 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:02 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:02 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:02 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:02 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:03 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:03 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:04 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:05 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:05 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:05 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:05 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:05 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:05 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:05 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:05 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:07 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:07 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:07 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:07 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:07 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:07 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:08 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:09 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:09 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:09 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:09 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:10 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:10 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:10 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:10 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:11 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:11 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:12 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:12 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:12 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:12 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:12 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:12 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:13 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:13 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:13 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:13 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:13 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:14 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:14 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:14 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:14 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:14 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:14 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:14 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:14 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:14 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:14 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:15 Europe/Berlin] EXPENSES::render estoy aqui
+[14-Jan-2021 02:59:15 Europe/Berlin] inicio de aplicacion web!
+[14-Jan-2021 02:59:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[14-Jan-2021 02:59:18 Europe/Berlin] SESSIONCOntroller::getUserSessionData ->
+[14-Jan-2021 02:59:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:19 Europe/Berlin] SESSIONCONTROLLER::getcurrentPage -> expenses
+[14-Jan-2021 02:59:19 Europe/Berlin] estoy en redirectDefaultByRole y esto da /expenses/
+[14-Jan-2021 02:59:19 Europe/Berlin] EXPENSES::construct -> inicio de login
+[14-Jan-2021 02:59:20 Europe/Berlin] EXPENSES::render estoy aqui
